@@ -1,49 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\",
+  "WorkspaceRootPath": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\gavin\\onedrive\\documents\\nsbm\\c#\\group assignment-group c\\main files\\class-pilot-repo\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\gavin\\onedrive\\documents\\nsbm\\c#\\group assignment-group c\\main files\\class-pilot-repo\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\createclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\gavin\\onedrive\\documents\\nsbm\\c#\\group assignment-group c\\main files\\class-pilot-repo\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\createclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\createclass.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\gavin\\onedrive\\documents\\nsbm\\c#\\group assignment-group c\\main files\\class-pilot-repo\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\side menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\side menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\joshu\\onedrive\\documents\\github\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,15 +66,65 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateClass.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\CreateClass.Designer.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\CreateClass.Designer.cs",
+              "ViewState": "AQIAAOQBAAAAAAAAAAAjwOYBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:26:53.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateClass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\CreateClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:26:52.404Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CreateClass.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\CreateClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T23:26:39.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Side Menu.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
               "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,98 +133,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Side Menu.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
               "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
               "ViewState": "AQIAALsAAAAAAAAAAAAswBUBAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:14:08.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T22:14:08.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Side Menu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
               "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs [Design]",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Side Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:13:56.87Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Attendance.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
-              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:03:56.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "WhenOpened": "2024-04-22T22:13:56.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Attendance.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
-              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
-              "ViewState": "AQIAAMcBAAAAAAAAAAAswH0CAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:04:18.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Attendance.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs [Design]",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.cs [Design]",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T22:04:06.772Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-22T22:03:56.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Teacher SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
-              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
+              "Title": "Attendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAswH0CAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T23:28:34.381Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-22T22:04:18.888Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Teacher SignUp.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "DocumentIndex": 11,
+              "Title": "Attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:04:06.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:28:34.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
               "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,41 +214,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
               "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T23:24:03.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T23:24:03.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.cs",
               "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs [Design]",
-              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T23:23:07.818Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-21T23:23:07.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
               "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.cs",
-              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "ToolTip": "C:\\Users\\gavin\\OneDrive\\Documents\\NSBM\\C#\\Group Assignment-Group C\\Main Files\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
               "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Login.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T23:22:56.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T23:22:56.677Z"
             }
           ]
         }
