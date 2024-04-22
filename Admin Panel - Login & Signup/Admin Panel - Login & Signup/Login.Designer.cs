@@ -1,4 +1,4 @@
-﻿namespace Admin_Panel_DashBoard
+﻿namespace Class_Pilot
 {
     partial class Login
     {

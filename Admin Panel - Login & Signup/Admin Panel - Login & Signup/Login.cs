@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Admin_Panel_DashBoard
+namespace Class_Pilot
 {
     public partial class Login : Form
     {
