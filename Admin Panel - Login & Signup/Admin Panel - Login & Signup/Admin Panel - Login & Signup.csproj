@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminPanel_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel_Dashboard.Designer.cs">
+      <DependentUpon>AdminPanel_Dashboard.cs</DependentUpon>
+    </Compile>
     <Compile Include="Attendance.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -78,6 +84,15 @@
     <Compile Include="Teacher SignUp.Designer.cs">
       <DependentUpon>Teacher SignUp.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControlStudentRegistration.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlStudentRegistration.Designer.cs">
+      <DependentUpon>UserControlStudentRegistration.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminPanel_Dashboard.resx">
+      <DependentUpon>AdminPanel_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Attendance.resx">
       <DependentUpon>Attendance.cs</DependentUpon>
     </EmbeddedResource>
@@ -102,6 +117,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Teacher SignUp.resx">
       <DependentUpon>Teacher SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlStudentRegistration.resx">
+      <DependentUpon>UserControlStudentRegistration.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
