@@ -108,6 +108,12 @@
     <Compile Include="UserControlTeacher.Designer.cs">
       <DependentUpon>UserControlTeacher.cs</DependentUpon>
     </Compile>
+    <Compile Include="UserControlTeacherEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlTeacherEdit.Designer.cs">
+      <DependentUpon>UserControlTeacherEdit.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="AdminPanel_Dashboard.resx">
       <DependentUpon>AdminPanel_Dashboard.cs</DependentUpon>
     </EmbeddedResource>
@@ -147,6 +153,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UserControlTeacher.resx">
       <DependentUpon>UserControlTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlTeacherEdit.resx">
+      <DependentUpon>UserControlTeacherEdit.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
