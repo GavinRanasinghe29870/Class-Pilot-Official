@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\asus\\documents\\class-pilot-repos\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\usercontrolteacheredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacheredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\asus\\documents\\class-pilot-repos\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\usercontrolteacheredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacheredit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\asus\\documents\\class-pilot-repos\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\usercontrolteacheredit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacheredit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|c:\\users\\asus\\documents\\class-pilot-repos\\class-pilot-official\\admin panel - login \u0026 signup\\admin panel - login \u0026 signup\\usercontrolreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudent.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolteacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacher.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\adminpanel_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\adminpanel_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\adminpanel_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\adminpanel_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudentregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\usercontrolstudentregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\usercontrolstudentregistration.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\side menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\side menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\attendance.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F75C58-81F3-4F43-8568-551FBB02D80F}|Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup.csproj|solutionrelative:admin panel - login \u0026 signup\\teacher signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlTeacherEdit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.Designer.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAuwHEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:49:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControlTeacherEdit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:49:03.519Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlTeacherEdit.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacherEdit.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T15:48:59.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserControlReports.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:49:25.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControlStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:45:31.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlTeacher.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.Designer.cs",
+              "ViewState": "AQIAAPEAAAAAAAAAAIAwwP8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:45:12.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:28:34.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControlTeacher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:45:10.649Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserControlStudent.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudent.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlStudent.Designer.cs",
+              "ViewState": "AQIAAPgAAAAAAAAAAIAwwAkBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:45:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserControlReports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlReports.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlReports.cs [Design]",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:49:34.581Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserControlTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlTeacher.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:42:13.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserControlStudent.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlStudent.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T16:41:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminPanel_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "ToolTip": "D:\\Class-Pilot-Repo\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:53:59.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminPanel_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\AdminPanel_Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:53:53.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserControlStudentRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:43:16.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:03:56.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserControlStudentRegistration.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:50:03.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControlStudentRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs",
+              "ToolTip": "D:\\Tish\\Tish\\project-gitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\UserControlStudentRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:46:57.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Side Menu.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:14:57.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Side Menu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Side Menu.Designer.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAswBUBAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:14:08.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Side Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Side Menu.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Side Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:13:56.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Attendance.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Attendance.Designer.cs",
+              "ViewState": "AQIAAMcBAAAAAAAAAAAswH0CAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T22:04:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Teacher SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Teacher SignUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:28:29.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:24:03.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.cs",
+              "ToolTip": "C:\\Users\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\joshu\\OneDrive\\Documents\\GitHub\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:23:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "RelativeDocumentMoniker": "Admin Panel - Login \u0026 Signup\\Login.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\class-pilot-repos\\Class-Pilot-Official\\Admin Panel - Login \u0026 Signup\\Admin Panel - Login \u0026 Signup\\Login.cs",
+              "RelativeToolTip": "Admin Panel - Login \u0026 Signup\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T23:22:56.677Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

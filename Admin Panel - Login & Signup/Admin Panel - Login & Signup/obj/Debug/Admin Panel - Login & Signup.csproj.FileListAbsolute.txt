@@ -1,0 +1,14 @@
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Admin Panel - Login & Signup.csproj.AssemblyReference.cache
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.AdminForm.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.Attendance.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.CreateClass.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.Login.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Admin_Panel___Login___Signup.Properties.Resources.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.Attendence.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Login_Admin.Teacher_SignUp.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.UserControlStudentRegistration.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Admin Panel - Login & Signup.csproj.GenerateResource.cache
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Admin Panel - Login & Signup.csproj.CoreCompileInputs.cache
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.UserControlReports.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.UserControls.UserControlStudent.resources
+D:\Class-Pilot-Repo\Class-Pilot-Official\Admin Panel - Login & Signup\Admin Panel - Login & Signup\obj\Debug\Class_Pilot.UserControls.UserControlTeacher.resources
